@@ -1,2 +1,2 @@
 # HTMLAdressBook
- Open Source code
+ Open Source code for a broswer, uncompiled.
